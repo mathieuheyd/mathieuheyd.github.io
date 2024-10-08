@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jaeger-flame-graph/static/css/main.e83827c2.css",
+    "main.js": "/jaeger-flame-graph/static/js/main.8ea29685.js",
+    "static/js/453.93ec31cc.chunk.js": "/jaeger-flame-graph/static/js/453.93ec31cc.chunk.js",
+    "index.html": "/jaeger-flame-graph/index.html",
+    "main.e83827c2.css.map": "/jaeger-flame-graph/static/css/main.e83827c2.css.map",
+    "main.8ea29685.js.map": "/jaeger-flame-graph/static/js/main.8ea29685.js.map",
+    "453.93ec31cc.chunk.js.map": "/jaeger-flame-graph/static/js/453.93ec31cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e83827c2.css",
+    "static/js/main.8ea29685.js"
+  ]
+}
