@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jaeger-flame-graph/static/css/main.7b8d9945.css",
-    "main.js": "/jaeger-flame-graph/static/js/main.7e19b1ae.js",
+    "main.css": "/jaeger-flame-graph/static/css/main.7e4dfdc1.css",
+    "main.js": "/jaeger-flame-graph/static/js/main.7eb773aa.js",
     "static/js/453.93ec31cc.chunk.js": "/jaeger-flame-graph/static/js/453.93ec31cc.chunk.js",
     "index.html": "/jaeger-flame-graph/index.html",
-    "main.7b8d9945.css.map": "/jaeger-flame-graph/static/css/main.7b8d9945.css.map",
-    "main.7e19b1ae.js.map": "/jaeger-flame-graph/static/js/main.7e19b1ae.js.map",
+    "main.7e4dfdc1.css.map": "/jaeger-flame-graph/static/css/main.7e4dfdc1.css.map",
+    "main.7eb773aa.js.map": "/jaeger-flame-graph/static/js/main.7eb773aa.js.map",
     "453.93ec31cc.chunk.js.map": "/jaeger-flame-graph/static/js/453.93ec31cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b8d9945.css",
-    "static/js/main.7e19b1ae.js"
+    "static/css/main.7e4dfdc1.css",
+    "static/js/main.7eb773aa.js"
   ]
 }
